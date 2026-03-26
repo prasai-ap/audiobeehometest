@@ -1,0 +1,23 @@
+1. Create a Playwright Python script to scrape the Ekantipur entertainment page and extract top 5 news articles.
+
+2. How to select elements using Playwright Python for a list of articles with class "category"?
+
+3. Extract title, image URL, category, and author from each news card using Playwright.
+
+4. Handle lazy-loaded images in Playwright (data-src vs src attribute).
+
+5. Fix Playwright error: "query_selector invalid selector '..category-image img'".
+
+6. How to safely handle missing elements in Playwright (author may be null)?
+
+7. Extract only first 5 items from query_selector_all results.
+
+8. How to wait for dynamic content to load in Playwright (networkidle or selector wait)?
+
+9. Extract "Cartoon of the Day" section from Ekantipur homepage using Playwright.
+
+10. Save scraped data into JSON format using Python with ensure_ascii=False.
+
+11. Debug Playwright scraping when elements return None.
+
+12. Improve selector reliability (avoid fragile selectors, prefer class-based selectors).
